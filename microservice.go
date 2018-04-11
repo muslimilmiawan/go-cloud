@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"./api"
+	"github.com/muslimilmiawan/go-cloud/api"
 )
 
 func main() {
